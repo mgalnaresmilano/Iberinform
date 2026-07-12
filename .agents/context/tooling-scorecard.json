@@ -12,6 +12,7 @@
       ".cursor/skills/doc-consistency/SKILL.md",
       ".cursor/skills/expression-sets/SKILL.md",
       ".cursor/skills/inapp-framework/SKILL.md",
+      ".cursor/skills/pde-org-build/SKILL.md",
       ".cursor/skills/pmos-integration/SKILL.md",
       ".cursor/skills/pricing-wiring/SKILL.md",
       ".cursor/skills/qb-demo-script/SKILL.md",
@@ -35,12 +36,13 @@
       ".cursor/skills/sfdmu-data-plans/plan-dependency-graph.md",
       ".cursor/skills/skill-authoring/SKILL.md",
       ".cursor/skills/troubleshooting/SKILL.md",
-      ".cursor/skills/troubleshooting/large-deal-preprocess-reference.md"
+      ".cursor/skills/troubleshooting/large-deal-preprocess-reference.md",
+      ".cursor/skills/txn-data-harness/SKILL.md"
     ],
     "missing": []
   },
   "counts": {
-    "agents_skill_references": 35,
+    "agents_skill_references": 37,
     "cursor_rules": 11,
     "errors": 1,
     "generated_cci_reference_files_present": 3,
@@ -48,7 +50,7 @@
     "missing_agents_skill_references": 0,
     "required_files_present": 6,
     "required_files_total": 6,
-    "skills_markdown_files": 45,
+    "skills_markdown_files": 47,
     "warnings": 0
   },
   "errors": [
@@ -70,7 +72,7 @@
     "manifest_version": "2",
     "present": true,
     "salesforce_release_active": "262",
-    "skill_count": 18,
+    "skill_count": 20,
     "skill_ids": [
       "apex-security-hardening",
       "audit-review",
@@ -78,6 +80,7 @@
       "doc-consistency",
       "expression-sets",
       "inapp-framework",
+      "pde-org-build",
       "pmos-integration",
       "qb-demo-script",
       "release-enablement",
@@ -89,7 +92,8 @@
       "schema-validation",
       "sfdmu-data-plans",
       "skill-authoring",
-      "troubleshooting"
+      "troubleshooting",
+      "txn-data-harness"
     ],
     "skill_paths": [
       ".cursor/skills/apex-security-hardening/SKILL.md",
@@ -98,6 +102,7 @@
       ".cursor/skills/doc-consistency/SKILL.md",
       ".cursor/skills/expression-sets/SKILL.md",
       ".cursor/skills/inapp-framework/SKILL.md",
+      ".cursor/skills/pde-org-build/SKILL.md",
       ".cursor/skills/pmos-integration/SKILL.md",
       ".cursor/skills/qb-demo-script/SKILL.md",
       ".cursor/skills/release-enablement/SKILL.md",
@@ -109,7 +114,8 @@
       ".cursor/skills/schema-validation/SKILL.md",
       ".cursor/skills/sfdmu-data-plans/SKILL.md",
       ".cursor/skills/skill-authoring/SKILL.md",
-      ".cursor/skills/troubleshooting/SKILL.md"
+      ".cursor/skills/troubleshooting/SKILL.md",
+      ".cursor/skills/txn-data-harness/SKILL.md"
     ]
   },
   "required_files": {
@@ -203,6 +209,7 @@
     ".cursor/skills/doc-consistency/SKILL.md",
     ".cursor/skills/expression-sets/SKILL.md",
     ".cursor/skills/inapp-framework/SKILL.md",
+    ".cursor/skills/pde-org-build/SKILL.md",
     ".cursor/skills/pmos-integration/SKILL.md",
     ".cursor/skills/pricing-wiring/SKILL.md",
     ".cursor/skills/qb-demo-script/SKILL.md",
@@ -235,7 +242,8 @@
     ".cursor/skills/sfdmu-data-plans/plan-dependency-graph.md",
     ".cursor/skills/skill-authoring/SKILL.md",
     ".cursor/skills/troubleshooting/SKILL.md",
-    ".cursor/skills/troubleshooting/large-deal-preprocess-reference.md"
+    ".cursor/skills/troubleshooting/large-deal-preprocess-reference.md",
+    ".cursor/skills/txn-data-harness/SKILL.md"
   ],
   "status": "fail",
   "warnings": []

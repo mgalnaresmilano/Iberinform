@@ -8,9 +8,9 @@
 
 - Overall status: **FAIL**
 - Required files: **6/6** present
-- Skills inventoried: **45** Markdown files under `.cursor/skills/`
+- Skills inventoried: **47** Markdown files under `.cursor/skills/`
 - Cursor rules inventoried: **11** `.mdc` files under `.cursor/rules/`
-- AGENTS.md skill references: **35** checked, **0** missing
+- AGENTS.md skill references: **37** checked, **0** missing
 - Generated CCI references: **3/3** present
 - Errors: **1**
 - Warnings: **0**
@@ -38,6 +38,7 @@
 - `.cursor/skills/doc-consistency/SKILL.md`
 - `.cursor/skills/expression-sets/SKILL.md`
 - `.cursor/skills/inapp-framework/SKILL.md`
+- `.cursor/skills/pde-org-build/SKILL.md`
 - `.cursor/skills/pmos-integration/SKILL.md`
 - `.cursor/skills/pricing-wiring/SKILL.md`
 - `.cursor/skills/qb-demo-script/SKILL.md`
@@ -71,6 +72,7 @@
 - `.cursor/skills/skill-authoring/SKILL.md`
 - `.cursor/skills/troubleshooting/SKILL.md`
 - `.cursor/skills/troubleshooting/large-deal-preprocess-reference.md`
+- `.cursor/skills/txn-data-harness/SKILL.md`
 
 ## Cursor Rule Inventory
 
@@ -99,6 +101,7 @@
 - ✅ `.cursor/skills/doc-consistency/SKILL.md`
 - ✅ `.cursor/skills/expression-sets/SKILL.md`
 - ✅ `.cursor/skills/inapp-framework/SKILL.md`
+- ✅ `.cursor/skills/pde-org-build/SKILL.md`
 - ✅ `.cursor/skills/pmos-integration/SKILL.md`
 - ✅ `.cursor/skills/pricing-wiring/SKILL.md`
 - ✅ `.cursor/skills/qb-demo-script/SKILL.md`
@@ -123,6 +126,7 @@
 - ✅ `.cursor/skills/skill-authoring/SKILL.md`
 - ✅ `.cursor/skills/troubleshooting/SKILL.md`
 - ✅ `.cursor/skills/troubleshooting/large-deal-preprocess-reference.md`
+- ✅ `.cursor/skills/txn-data-harness/SKILL.md`
 
 ## Cursor Rule Coverage
 
@@ -152,13 +156,14 @@ Each `.cursor/rules/*.mdc` is checked against the AGENTS.md File-Specific Rules 
 - Manifest version: `2`
 - Last verified: `2026-05-23`
 - Active Salesforce release: `262`
-- Manifest skill count: **18**
+- Manifest skill count: **20**
   - `apex-security-hardening`
   - `audit-review`
   - `cci-orchestration`
   - `doc-consistency`
   - `expression-sets`
   - `inapp-framework`
+  - `pde-org-build`
   - `pmos-integration`
   - `qb-demo-script`
   - `release-enablement`
@@ -171,6 +176,7 @@ Each `.cursor/rules/*.mdc` is checked against the AGENTS.md File-Specific Rules 
   - `sfdmu-data-plans`
   - `skill-authoring`
   - `troubleshooting`
+  - `txn-data-harness`
 
 ## Findings
 
